@@ -1,0 +1,20 @@
+.column-berocket_order {
+    width: 120px;
+    text-align: right;
+}
+.berocket_post_set_new_order_input {
+    position: relative;
+}
+.berocket_post_set_new_order_input input {
+    width: 80px;
+    padding-right: 20px;
+}
+.berocket_post_set_new_order_input .fa{
+    position: absolute;
+    right: 5px;
+    height: 100%;
+    vertical-align: middle;
+    display: inline-block;
+    font-size: 1.4em;
+    top: -0.1em;
+}
